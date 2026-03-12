@@ -30,6 +30,15 @@ The algorithms are evaluated under several input conditions of different sizes t
      Random      |   2000   | (1001706, 0.14205) | (1001706, 0.07558) |  (1996, 0.05305)   
      Random      |   3000   | (2232781, 0.31868) | (2232781, 0.17615) |  (2993, 0.11879)
 
-    
+
 # Sorting-Algorithm-Analysis
 Implementation and performance analysis of Bubble Sort, Insertion Sort, and Selection sort under different input scenarios
+
+## Performance Visualization
+
+Runtime Comparisons of sorting algorithms: 
+![Sorting Performance](graphs/random_runtime_comparisons.png)
+![Sorting Performance](graphs/sorted_runtime_comparisons.png)
+![Sorting Performance](graphs/reverse_runtime_comparisons.png)
+![Sorting Performance](graphs/fte_runtime_comparisons.png)
+![Sorting Performance](graphs/etf_runtime_comparisons.png)
