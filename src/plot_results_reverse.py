@@ -16,7 +16,7 @@ plt.plot(sizes, selection_times, label = "Selection Sort")
 
 plt.xlabel("Label Size")
 plt.ylabel("Runtime (seconds)")
-plt.title("Sorting Algorithm Peroformance (Reverse)")
+plt.title("Sorting Algorithm Performance (Reverse)")
 
 plt.legend()
 
