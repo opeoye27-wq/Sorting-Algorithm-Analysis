@@ -16,7 +16,7 @@ plt.plot(sizes, selection_times, label = "Selection Sort")
 
 plt.xlabel("Label Size")
 plt.ylabel("Runtime (seconds)")
-plt.title("Sorting Algorithm Peroformance (Random)")
+plt.title("Sorting Algorithm Performance (Random)")
 
 plt.legend()
 
